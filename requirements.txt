@@ -1,0 +1,10 @@
+langchain==0.3.3
+pinecone-client==5.0.1
+langchain_google_genai==2.0.1
+cohere==5.11.0
+langchain_community==0.3.2
+langchain_groq==0.2.0
+pypdf==5.0.1
+streamlit==1.12.0
+altair==4.0.0 
+markdown2==2.5.1

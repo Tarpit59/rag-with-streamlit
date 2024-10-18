@@ -1,0 +1,10 @@
+*.pyc
+__pycache__/
+.env
+.git
+env/
+venv/
+.gitignore
+Colab_notebook.ipynb
+README.md
+notebook/

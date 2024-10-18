@@ -26,7 +26,7 @@ This project implements a Retrieval-Augmented Generation (RAG) bot that allows u
 
 ```bash
 git clone https://github.com/Tarpit59/rag-with-streamlit.git
-cd qa-bot
+cd rag-with-streamlit
 ```
 #### 2. Build the Docker container:
 
